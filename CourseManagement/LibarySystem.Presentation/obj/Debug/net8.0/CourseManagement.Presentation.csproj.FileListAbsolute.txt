@@ -1,0 +1,15 @@
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Presentation.exe
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Presentation.deps.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Presentation.runtimeconfig.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Presentation.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Presentation.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.AssemblyInfoInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.AssemblyInfo.cs
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.sourcelink.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\refint\CourseManagement.Presentation.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.genruntimeconfig.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\ref\CourseManagement.Presentation.dll
