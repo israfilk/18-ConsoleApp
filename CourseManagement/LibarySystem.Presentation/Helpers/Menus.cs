@@ -19,5 +19,6 @@ namespace CourseManagement.Presentation.Helpers
         GetByTeacher = 8,
         GetByRoomNo = 9,
         GetStudentById = 10,
+        DeleteStudent = 11,
     }
 }

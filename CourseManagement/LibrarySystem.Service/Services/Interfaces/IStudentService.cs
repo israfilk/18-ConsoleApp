@@ -12,5 +12,6 @@ namespace CourseManagement.Service.Services.Interfaces
     {
         Student Create(int groupId, Student student);
         Student GetById(int id);
+        void Delete(Student data);
     }
 }

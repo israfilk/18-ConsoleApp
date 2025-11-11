@@ -24,7 +24,6 @@ namespace CourseManagement.Service.Services.Implementations
         public Student GetById(int id)
         {
             Student student = _studentRepository.Get(l => l.Id == id);
-
             return student ?? null;
         }
 
@@ -43,6 +42,11 @@ namespace CourseManagement.Service.Services.Implementations
             _count++;
 
             return Student;
+        }
+
+        public void Delete(Student data)
+        {
+            _studentRepository.Delete(data);
         }
     }
 }

@@ -56,6 +56,9 @@ namespace CourseManagement.Presentation
                         case (int)Menus.GetStudentById:
                             studentController.GetById();
                             break;
+                        case (int)Menus.DeleteStudent:
+                            studentController.Delete();
+                            break;
                     }
                 }
                 else
@@ -68,7 +71,7 @@ namespace CourseManagement.Presentation
 
         private static void GetMenus()
         {
-            Helper.PrintConsole(ConsoleColor.Yellow, "1 - Create Group, 2 - Get Group , 3 - GetAll Groups, 4 - Delete Group, 5 - Update Group, 6 - Search Group, 7 - Student Create, 8- Get Groups by Teacher, 9 - Get by Room, 10- Get Student By Id");
+            Helper.PrintConsole(ConsoleColor.Yellow, "1 - Create Group, 2 - Get Group , 3 - GetAll Groups, 4 - Delete Group, 5 - Update Group, 6 - Search Group, 7 - Student Create, 8- Get Groups by Teacher, 9 - Get by Room, 10- Get Student By Id, 11 - Delete student");
         }
     }
 }

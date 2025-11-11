@@ -39,7 +39,7 @@ namespace CourseManagement.Presentation.Controllers
 
                 string age = Console.ReadLine();
 
-                Student student = new Student{ Name = name, Surname = surname , Age = int.Parse(age)};
+                Student student = new Student { Name = name, Surname = surname, Age = int.Parse(age) };
 
                 Helper.PrintConsole(ConsoleColor.Blue, "Add student group");
 
@@ -64,6 +64,32 @@ namespace CourseManagement.Presentation.Controllers
             }
         }
 
+        public void Delete()
+        {
+            Helper.PrintConsole(ConsoleColor.Blue, "Add student Id to delete");
+            string id = Console.ReadLine();
+
+            if (id != null)
+            {
+
+                //find the student
+                Student followingStudent = _studetService.GetById(int.Parse(id));
+
+                //if there is no student
+                if (followingStudent == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Student cannot be found");
+                }
+                else
+                {
+                    _studetService.Delete(followingStudent);
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Deleted succesfully!");
+                }
+            }
+
+        }
         public void GetById()
         {
         groupId: Helper.PrintConsole(ConsoleColor.Blue, "Add student Id");
