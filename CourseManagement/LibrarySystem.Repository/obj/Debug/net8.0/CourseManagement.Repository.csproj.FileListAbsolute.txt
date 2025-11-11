@@ -1,0 +1,16 @@
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\bin\Debug\net8.0\CourseManagement.Repository.deps.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\bin\Debug\net8.0\CourseManagement.Repository.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\bin\Debug\net8.0\CourseManagement.Repository.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\bin\Debug\net8.0\CourseManagement.Domain.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\bin\Debug\net8.0\CourseManagement.Domain.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.AssemblyInfo.cs
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.sourcelink.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseMa.AAE5EF7F.Up2Date
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\refint\CourseManagement.Repository.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\CourseManagement.Repository.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibrarySystem.Repository\obj\Debug\net8.0\ref\CourseManagement.Repository.dll

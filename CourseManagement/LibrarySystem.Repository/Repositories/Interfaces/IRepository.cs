@@ -9,9 +9,9 @@ namespace CourseManagement.Repository.Repositories.Interfaces
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        void Created (T entity);
+        void Create (T entity);
         void Update (T entity);
-        void Delet (T entity);
+        void Delete (T entity);
         T Get(Predicate<T> predicate);
         List<T> GetAll(Predicate<T> predicate);
     }

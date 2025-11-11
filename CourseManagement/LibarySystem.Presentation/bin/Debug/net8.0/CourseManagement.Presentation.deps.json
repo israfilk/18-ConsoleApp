@@ -7,14 +7,62 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "CourseManagement.Presentation/1.0.0": {
+        "dependencies": {
+          "CourseManagement.Service": "1.0.0"
+        },
         "runtime": {
           "CourseManagement.Presentation.dll": {}
+        }
+      },
+      "CourseManagement.Domain/1.0.0": {
+        "runtime": {
+          "CourseManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CourseManagement.Repository/1.0.0": {
+        "dependencies": {
+          "CourseManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CourseManagement.Repository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CourseManagement.Service/1.0.0": {
+        "dependencies": {
+          "CourseManagement.Repository": "1.0.0"
+        },
+        "runtime": {
+          "CourseManagement.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CourseManagement.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseManagement.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseManagement.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using CourseManagement.Domain.Entities;
 using CourseManagement.Repository.Data;
 using CourseManagement.Repository.Exceptions;
 using CourseManagement.Repository.Repositories.Interfaces;
@@ -15,14 +15,13 @@ namespace CourseManagement.Repository.Repositories.Implementations
 {
     public class GroupRepository : IRepository<Group>
     {
-        public void Created(Group entity)
+        public void Create(Group data)
         {
             try
             {
-                if (entity is null) throw new NotFoundException("Group Not Found");
+                if (data == null) throw new NotFoundException("Data not found!");
 
-                AppDbContext<Group>.datas.Add(entity);
-
+                AppDbContext<Group>.datas.Add(data);
             }
             catch (Exception ex)
             {
@@ -30,24 +29,36 @@ namespace CourseManagement.Repository.Repositories.Implementations
             }
         }
 
-        public void Delet(Group entity)
+        public void Delete(Group data)
         {
-            throw new NotImplementedException();
+            AppDbContext<Group>.datas.Remove(data);
         }
 
         public Group Get(Predicate<Group> predicate)
         {
-            throw new NotImplementedException();
+            return predicate != null ? AppDbContext<Group>.datas.Find(predicate) : null;
         }
 
-        public List<Group> GetAll(Predicate<Group> predicate)
+        public List<Group> GetAll(Predicate<Group> predicate = null)
         {
-            throw new NotImplementedException();
+            return predicate != null ? AppDbContext<Group>.datas.FindAll(predicate) : AppDbContext<Group>.datas;
         }
 
-        public void Update(Group entity)
+        public void Update(Group data)
         {
-            throw new NotImplementedException();
+            Group dbLibrary = Get(l => l.Id == data.Id);
+
+            if (dbLibrary == null) return;
+
+            if (!string.IsNullOrEmpty(data.Name))
+            {
+                dbLibrary.Name = data.Name;
+            }
+
+            if (data.Room > 0)
+            {
+                dbLibrary.Room = data.Room;
+            }
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\bin\Debug\net8.0\CourseManagement.Domain.deps.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\bin\Debug\net8.0\CourseManagement.Domain.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\bin\Debug\net8.0\CourseManagement.Domain.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.AssemblyInfo.cs
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.sourcelink.json
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\refint\CourseManagement.Domain.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\CourseManagement.Domain.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibraySystem.Domein\obj\Debug\net8.0\ref\CourseManagement.Domain.dll

@@ -13,3 +13,11 @@ C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\L
 C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.pdb
 C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.genruntimeconfig.cache
 C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\ref\CourseManagement.Presentation.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseManagement.Presentation.csproj.AssemblyReference.cache
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Domain.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Repository.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Service.dll
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Service.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Domain.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\bin\Debug\net8.0\CourseManagement.Repository.pdb
+C:\Users\israf\OneDrive\Рабочий стол\18-ConsoleApp\CourseManagement\LibarySystem.Presentation\obj\Debug\net8.0\CourseMa.739BF7A3.Up2Date
