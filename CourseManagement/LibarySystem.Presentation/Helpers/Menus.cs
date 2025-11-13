@@ -9,7 +9,7 @@ namespace CourseManagement.Presentation.Helpers
 
     public enum Menus
     {
-        CreateGroup = 1,
+         CreateGroup=1,
         GetGroup = 2,
         GetAllGroups = 3,
         DeleteGroup = 4,

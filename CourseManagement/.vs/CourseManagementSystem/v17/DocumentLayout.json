@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libarysystem.presentation\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA90048-315C-485A-93A4-39E604A4C121}|LibrarySystem.Service\\CourseManagement.Service.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\librarysystem.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA90048-315C-485A-93A4-39E604A4C121}|LibrarySystem.Service\\CourseManagement.Service.csproj|solutionrelative:librarysystem.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libarysystem.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libarysystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EBF2F88-AF78-4333-A48A-C41EAD804482}|LibraySystem.Domein\\CourseManagement.Domain.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libraysystem.domein\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EBF2F88-AF78-4333-A48A-C41EAD804482}|LibraySystem.Domein\\CourseManagement.Domain.csproj|solutionrelative:libraysystem.domein\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libarysystem.presentation\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|c:\\users\\israf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-consoleapp\\coursemanagement\\libarysystem.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA63C75-9C6E-42A0-9D6F-0ACA56519E4D}|LibarySystem.Presentation\\CourseManagement.Presentation.csproj|solutionrelative:libarysystem.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibrarySystem.Service\\Services\\Interfaces\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibrarySystem.Service\\Services\\Interfaces\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibraySystem.Domein\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraySystem.Domein\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Menus.cs",
               "DocumentMoniker": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Helpers\\Menus.cs",
               "RelativeDocumentMoniker": "LibarySystem.Presentation\\Helpers\\Menus.cs",
               "ToolTip": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Helpers\\Menus.cs",
               "RelativeToolTip": "LibarySystem.Presentation\\Helpers\\Menus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T19:15:12.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T19:15:12.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibrarySystem.Service\\Services\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "LibrarySystem.Service\\Services\\Interfaces\\IStudentService.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "LibrarySystem.Service\\Services\\Interfaces\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T19:12:01.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T19:12:01.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "LibarySystem.Presentation\\Controllers\\StudentController.cs",
@@ -76,27 +74,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "LibarySystem.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Program.cs",
               "RelativeToolTip": "LibarySystem.Presentation\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwEkAAAAKAQAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEkAAAAKAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:23:12.541Z"
+              "WhenOpened": "2025-11-11T16:23:12.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GroupController.cs",
               "DocumentMoniker": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Controllers\\GroupController.cs",
               "RelativeDocumentMoniker": "LibarySystem.Presentation\\Controllers\\GroupController.cs",
               "ToolTip": "C:\\Users\\israf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\18-ConsoleApp\\CourseManagement\\LibarySystem.Presentation\\Controllers\\GroupController.cs",
               "RelativeToolTip": "LibarySystem.Presentation\\Controllers\\GroupController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwEQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:19:54.13Z"
+              "WhenOpened": "2025-11-11T16:19:54.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
